@@ -1,0 +1,15 @@
+{
+  "name": "backenedcode",
+  "version": "1.0.0",
+  "description": "a backened project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascripts",
+    "backened"
+  ],
+  "author": "Aditya Raghuwanshi",
+  "license": "ISC"
+}
