@@ -1,5 +1,7 @@
 import dotenv from "dotenv"
 import connectDB from "./db/index.js"
+import express from 'express'; // Make sure express is imported
+import mongoose from 'mongoose';
 dotenv.config({
     path: './.env'
 
